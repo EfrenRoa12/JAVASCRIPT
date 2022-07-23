@@ -1,0 +1,8 @@
+body{
+    color: darkgreen;
+    font-family: sans-serif;
+
+}
+.grande{
+    font-size: 50px;/**es la clase que le agregamos en javascript*/
+}

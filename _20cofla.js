@@ -1,0 +1,5 @@
+/*
+que la funcion nos devuela al profesor asinado y nombre de los alumnos
+que nos indique cuantas clases esta cofla
+nombre de sus clases y susprofesores
+*/
